@@ -41,6 +41,33 @@ To get started with this project, follow these steps:
    ```
 2. Open the `Performance.ipynb` file and run.
 
+## Key Findings
+1. Average RPE vs. Scripted Intensity
+
+This graph shows the average RPE (Rate of Perceived Exertion) for different training intensities: Light, Medium, and High.
+
+<img width="839" height="600" alt="averageRPE_ScriptedIntensity" src="https://github.com/user-attachments/assets/a0c991af-7521-42af-84de-e230bc3caa95" />
+
+- When the training is Light, the average RPE is low.
+
+- For Medium intensity, the RPE is higher.
+
+- For High intensity, the RPE is the highest.
+
+This means the athlete feels more tired when the training is harder. The athlete's feelings match the training plan.
+
+2. Sleep’s Effect on Overall Performance
+
+This graph shows whether sleep affects the athlete’s performance the next day. It compares average sleep hours with the overall performance score.
+
+<img width="855" height="558" alt="SleepEffectonOverallPerformance" src="https://github.com/user-attachments/assets/1ed0fb64-cc1d-48b9-8387-e775bd13d536" />
+
+If the athlete sleeps more, the performance score is usually a little higher.
+
+However, the correlation is not very strong (correlation between totalSleep and Overall = 0.27). This means sleep helps, but it is not the only important factor.
+
+Other things like nutrition, training, and recovery are also important for good performance.
+
 
 ## Acknowledgements
 
